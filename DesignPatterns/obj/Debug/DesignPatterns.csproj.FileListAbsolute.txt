@@ -1,0 +1,10 @@
+C:\Users\Frings\Downloads\SeleniumSamples.NET-master\SeleniumSamples.NET-master\DesignPatterns\bin\Debug\chromedriver.exe
+C:\Users\Frings\Downloads\SeleniumSamples.NET-master\SeleniumSamples.NET-master\DesignPatterns\bin\Debug\IEDriverServer.exe
+C:\Users\Frings\Downloads\SeleniumSamples.NET-master\SeleniumSamples.NET-master\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\Frings\Downloads\SeleniumSamples.NET-master\SeleniumSamples.NET-master\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\Frings\Downloads\SeleniumSamples.NET-master\SeleniumSamples.NET-master\DesignPatterns\bin\Debug\WebDriver.dll
+C:\Users\Frings\Downloads\SeleniumSamples.NET-master\SeleniumSamples.NET-master\DesignPatterns\bin\Debug\WebDriver.Support.dll
+C:\Users\Frings\Downloads\SeleniumSamples.NET-master\SeleniumSamples.NET-master\DesignPatterns\bin\Debug\WebDriver.xml
+C:\Users\Frings\Downloads\SeleniumSamples.NET-master\SeleniumSamples.NET-master\DesignPatterns\bin\Debug\WebDriver.Support.xml
+C:\Users\Frings\Downloads\SeleniumSamples.NET-master\SeleniumSamples.NET-master\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\Frings\Downloads\SeleniumSamples.NET-master\SeleniumSamples.NET-master\DesignPatterns\obj\Debug\DesignPatterns.pdb
